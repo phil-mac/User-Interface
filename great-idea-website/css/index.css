@@ -87,7 +87,6 @@ body{
 	display: inline-block;
 	width: 75%;
 	padding: 20px;
-	/* border: 1px solid black; */
 	
 }
 
@@ -96,7 +95,6 @@ body{
 	width: 20%;
 	position:absolute;
 	margin-top:8px;
-	/*margin-left: 700px; */
 }
 
 nav a{
@@ -111,12 +109,6 @@ nav a{
 	margin: 50px 0;
 }
 
-/* header div{
-	display: inline-block;
-	text-align: center;
-	width:48%;
-} */
-
 .circle-pic{
 	display:inline-block;
 	width: 90%;
@@ -124,8 +116,6 @@ nav a{
 	position:absolute;
 	margin: 0 auto;
 	left:55%;
-
-	/* margin-top:8px; */
 }
 
 h1{
@@ -149,7 +139,6 @@ section{
 .top-content{
 	border-top: 1px solid black;
 	padding: 20px 0 20px 0;
-
 }
 
 .top-content div{
